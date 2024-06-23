@@ -1,0 +1,8 @@
+This repository contains splash text file from Minecraft: Java Edition.
+
+Sources:
+1. Prior to Alpha v1.0.12: The string array in client's code
+2. Alpha v1.0.12 - 13w23b (a 1.6 snapshot): title/splashes.txt
+3. 13w24a and onward: assets/minecraft/texts/splashes.txt
+
+Note that some versions are missing, since it never been archived.
